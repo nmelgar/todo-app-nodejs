@@ -7,7 +7,7 @@ To start a test server on your computer, run the following commands:
 2. `npm run start`
 
 Open your browser and navigate to `http://localhost:3000` to see the first page of the app.
-Deployed web app [here] (https://todo-app-nodejs-tdhk.onrender.com/)
+Deployed web app [here](https://todo-app-nodejs-tdhk.onrender.com/)
 
 The purpose of writing this software is to practice building a CRUD (Create, Read, Update, Delete) application and to gain experience with backend and frontend integration.
 
